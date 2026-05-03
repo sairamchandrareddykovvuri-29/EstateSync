@@ -1,0 +1,90 @@
+property_id,owner_id,title,address,city,rent_amount,status
+1,2,3BHK Villa in Madurai,"24, Thane",Mumbai,58000,LEASED
+2,2,Office Space in Chennai,"13, Whitefield",Mumbai,18000,LEASED
+3,2,Studio Apartment in Bangalore,"196, Hitech City",Mumbai,53000,AVAILABLE
+4,2,Studio Apartment in Pune,"199, T Nagar",Ahmedabad,8000,AVAILABLE
+5,3,1BHK Flat in Kolkata,"65, Besant Nagar",Bangalore,60500,AVAILABLE
+6,3,1BHK Flat in Chennai,"92, Mylapore",Ahmedabad,33000,AVAILABLE
+7,3,1BHK Flat in Delhi,"14, T Nagar",Coimbatore,48000,AVAILABLE
+8,3,3BHK Villa in Madurai,"115, Koramangala",Kolkata,53000,AVAILABLE
+9,4,1BHK PG Room in Mumbai,"158, Anna Nagar",Kolkata,30500,AVAILABLE
+10,4,2BHK Apartment in Chennai,"123, Indiranagar",Coimbatore,60500,AVAILABLE
+11,4,3BHK Row House in Madurai,"19, Velachery",Pune,55500,AVAILABLE
+12,4,3BHK Villa in Hyderabad,"71, Bandra",Ahmedabad,50500,LEASED
+13,4,Commercial Space in Coimbatore,"153, Jubilee Hills",Delhi,43000,LEASED
+14,4,Office Space in Coimbatore,"26, Vashi",Bangalore,75500,LEASED
+15,5,2BHK Independent House in Madurai,"59, HSR Layout",Pune,73000,AVAILABLE
+16,5,2BHK Independent House in Coimbatore,"187, Adyar",Pune,40500,AVAILABLE
+17,5,4BHK Penthouse in Pune,"40, Thane",Madurai,13000,AVAILABLE
+18,5,3BHK Villa in Bangalore,"111, Adyar",Pune,70500,AVAILABLE
+19,6,Office Space in Kolkata,"144, Whitefield",Bangalore,40500,AVAILABLE
+20,6,2BHK Independent House in Chennai,"74, Bandra",Delhi,35500,AVAILABLE
+21,6,Office Space in Kolkata,"55, T Nagar",Madurai,25500,AVAILABLE
+22,7,1BHK PG Room in Pune,"30, Porur",Ahmedabad,25500,AVAILABLE
+23,7,1BHK PG Room in Ahmedabad,"158, Thane",Kolkata,8000,LEASED
+24,7,4BHK Penthouse in Chennai,"47, Porur",Delhi,80500,AVAILABLE
+25,7,Commercial Space in Chennai,"47, T Nagar",Ahmedabad,60500,AVAILABLE
+26,7,3BHK Villa in Hyderabad,"190, Powai",Chennai,13000,LEASED
+27,8,2BHK Independent House in Coimbatore,"117, Whitefield",Hyderabad,35500,AVAILABLE
+28,8,Commercial Space in Ahmedabad,"153, Velachery",Chennai,18000,AVAILABLE
+29,8,Office Space in Chennai,"173, Velachery",Delhi,43000,LEASED
+30,8,2BHK Independent House in Madurai,"156, JP Nagar",Coimbatore,28000,AVAILABLE
+31,9,Commercial Space in Coimbatore,"29, Tambaram",Ahmedabad,45500,LEASED
+32,9,4BHK Penthouse in Chennai,"57, Indiranagar",Ahmedabad,10500,AVAILABLE
+33,9,Studio Apartment in Delhi,"55, T Nagar",Delhi,30500,AVAILABLE
+34,10,2BHK Apartment in Madurai,"192, HSR Layout",Hyderabad,18000,AVAILABLE
+35,10,1BHK PG Room in Mumbai,"129, Hitech City",Pune,13000,AVAILABLE
+36,10,2BHK Apartment in Coimbatore,"5, JP Nagar",Bangalore,75500,AVAILABLE
+37,11,Office Space in Coimbatore,"182, Powai",Coimbatore,30500,AVAILABLE
+38,11,2BHK Independent House in Chennai,"84, Besant Nagar",Ahmedabad,43000,LEASED
+39,11,Commercial Space in Bangalore,"112, Adyar",Mumbai,40500,LEASED
+40,11,2BHK Independent House in Kolkata,"21, Indiranagar",Delhi,65500,AVAILABLE
+41,11,Studio Apartment in Pune,"200, Besant Nagar",Bangalore,48000,LEASED
+42,11,3BHK Villa in Kolkata,"131, Nungambakkam",Pune,35500,LEASED
+43,12,Studio Apartment in Bangalore,"38, Porur",Mumbai,20500,LEASED
+44,12,1BHK Flat in Bangalore,"46, Powai",Madurai,43000,LEASED
+45,12,Office Space in Madurai,"175, Andheri",Ahmedabad,33000,LEASED
+46,12,Commercial Space in Hyderabad,"113, Velachery",Madurai,43000,LEASED
+47,13,4BHK Penthouse in Ahmedabad,"15, Koramangala",Kolkata,13000,AVAILABLE
+48,13,3BHK Row House in Madurai,"10, Anna Nagar",Pune,73000,AVAILABLE
+49,13,3BHK Villa in Bangalore,"158, Bandra",Kolkata,38000,AVAILABLE
+50,13,Office Space in Kolkata,"190, Anna Nagar",Madurai,80500,LEASED
+51,13,Studio Apartment in Pune,"155, Banjara Hills",Kolkata,18000,AVAILABLE
+52,14,3BHK Villa in Pune,"183, Velachery",Kolkata,58000,AVAILABLE
+53,14,2BHK Apartment in Mumbai,"182, JP Nagar",Madurai,48000,LEASED
+54,14,Office Space in Hyderabad,"94, Koramangala",Delhi,38000,AVAILABLE
+55,14,Commercial Space in Ahmedabad,"14, Powai",Pune,13000,AVAILABLE
+56,14,3BHK Villa in Kolkata,"174, Indiranagar",Delhi,28000,LEASED
+57,14,Office Space in Hyderabad,"86, Velachery",Ahmedabad,60500,AVAILABLE
+58,15,4BHK Penthouse in Coimbatore,"34, Bandra",Bangalore,30500,LEASED
+59,15,2BHK Independent House in Pune,"33, Thane",Kolkata,13000,LEASED
+60,15,2BHK Independent House in Kolkata,"93, MG Road",Pune,30500,AVAILABLE
+61,15,Studio Apartment in Pune,"197, Banjara Hills",Mumbai,25500,AVAILABLE
+62,15,1BHK Flat in Bangalore,"76, Adyar",Kolkata,68000,LEASED
+63,16,Commercial Space in Ahmedabad,"34, Bandra",Coimbatore,18000,AVAILABLE
+64,16,1BHK Flat in Ahmedabad,"43, Dadar",Madurai,10500,AVAILABLE
+65,16,Commercial Space in Mumbai,"114, Bandra",Delhi,68000,LEASED
+66,17,Studio Apartment in Kolkata,"62, Tambaram",Madurai,78000,AVAILABLE
+67,17,Commercial Space in Ahmedabad,"113, JP Nagar",Delhi,68000,AVAILABLE
+68,17,1BHK PG Room in Kolkata,"108, Besant Nagar",Mumbai,70500,LEASED
+69,17,1BHK Flat in Delhi,"14, Powai",Madurai,75500,AVAILABLE
+70,17,1BHK PG Room in Bangalore,"183, Jubilee Hills",Bangalore,30500,AVAILABLE
+71,17,1BHK Flat in Delhi,"116, Jubilee Hills",Hyderabad,73000,AVAILABLE
+72,18,Studio Apartment in Madurai,"90, MG Road",Coimbatore,10500,AVAILABLE
+73,18,1BHK PG Room in Pune,"61, Indiranagar",Bangalore,35500,AVAILABLE
+74,18,2BHK Apartment in Pune,"26, Vashi",Pune,70500,AVAILABLE
+75,19,2BHK Apartment in Delhi,"121, Vashi",Hyderabad,68000,LEASED
+76,19,3BHK Row House in Madurai,"158, MG Road",Bangalore,8000,AVAILABLE
+77,19,Studio Apartment in Hyderabad,"141, Dadar",Ahmedabad,48000,AVAILABLE
+78,19,3BHK Villa in Delhi,"61, Tambaram",Bangalore,10500,AVAILABLE
+79,20,Office Space in Madurai,"17, Adyar",Madurai,55500,LEASED
+80,20,2BHK Apartment in Kolkata,"148, Mylapore",Hyderabad,30500,AVAILABLE
+81,20,2BHK Apartment in Ahmedabad,"91, Mylapore",Ahmedabad,40500,AVAILABLE
+82,20,3BHK Villa in Kolkata,"93, Velachery",Kolkata,50500,LEASED
+83,20,1BHK PG Room in Kolkata,"6, Indiranagar",Madurai,10500,LEASED
+84,20,2BHK Independent House in Pune,"65, Dadar",Chennai,35500,AVAILABLE
+85,21,Studio Apartment in Bangalore,"198, Andheri",Pune,18000,AVAILABLE
+86,21,Commercial Space in Kolkata,"87, Powai",Hyderabad,73000,LEASED
+87,21,3BHK Row House in Madurai,"162, Besant Nagar",Hyderabad,13000,LEASED
+88,21,3BHK Row House in Chennai,"76, Nungambakkam",Chennai,70500,AVAILABLE
+89,21,2BHK Apartment in Pune,"80, Jubilee Hills",Coimbatore,73000,LEASED

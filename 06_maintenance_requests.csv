@@ -1,0 +1,154 @@
+request_id,property_id,tenant_id,issue_description,request_date,request_status
+1,1,95,Lift not working in apartment block for 3 days.,2024-12-04,IN_PROGRESS
+2,2,81,Lift not working in apartment block for 3 days.,2024-11-14,CLOSED
+3,2,81,Balcony grill rusted and unstable – safety hazard.,2025-03-09,IN_PROGRESS
+4,12,22,AC unit not cooling properly despite being serviced recently.,2025-01-09,CLOSED
+5,12,22,Motor pump for overhead tank making loud noise.,2024-11-23,CLOSED
+6,12,22,Geyser not heating water; pilot light keeps going off.,2024-12-01,CLOSED
+7,13,76,AC unit not cooling properly despite being serviced recently.,2024-05-04,OPEN
+8,13,76,Main gate remote not working – manually opening every time.,2024-08-11,CLOSED
+9,13,76,Gas pipeline connection leaking – safety emergency.,2025-01-08,OPEN
+10,13,76,Electrical short circuit in main hall switchboard needs urgent repair.,2025-04-24,CLOSED
+11,14,33,Mosquito menace due to stagnant water in compound.,2025-04-24,IN_PROGRESS
+12,14,33,Electrical short circuit in main hall switchboard needs urgent repair.,2025-04-16,OPEN
+13,14,33,Water leakage from bathroom ceiling causing damage to walls.,2025-05-05,OPEN
+14,14,33,Broken tiles in bathroom causing water pooling.,2024-06-25,CLOSED
+15,23,73,Seepage in bedroom wall during rains.,2024-12-07,OPEN
+16,23,73,Window pane cracked due to storm – needs replacement.,2025-01-24,CLOSED
+17,23,73,Water leakage from bathroom ceiling causing damage to walls.,2025-05-17,CLOSED
+18,23,73,Kitchen sink drainage blocked completely.,2024-10-28,IN_PROGRESS
+19,26,40,AC unit not cooling properly despite being serviced recently.,2025-11-09,CLOSED
+20,26,40,Kitchen sink drainage blocked completely.,2025-07-28,CLOSED
+21,26,40,Kitchen sink drainage blocked completely.,2025-09-13,CLOSED
+22,29,83,Motor pump for overhead tank making loud noise.,2024-06-13,CLOSED
+23,29,83,Seepage in bedroom wall during rains.,2024-07-26,CLOSED
+24,29,83,Gas pipeline connection leaking – safety emergency.,2025-01-08,CLOSED
+25,31,75,Mosquito menace due to stagnant water in compound.,2025-05-19,OPEN
+26,31,75,Motor pump for overhead tank making loud noise.,2025-08-30,CLOSED
+27,31,75,Water leakage from bathroom ceiling causing damage to walls.,2025-06-06,OPEN
+28,31,75,Kitchen sink drainage blocked completely.,2025-11-27,OPEN
+29,38,67,Balcony grill rusted and unstable – safety hazard.,2025-03-12,CLOSED
+30,38,67,Kitchen sink drainage blocked completely.,2025-02-02,CLOSED
+31,38,67,Intercom system not working – cannot communicate with security.,2025-05-06,CLOSED
+32,38,67,Electrical short circuit in main hall switchboard needs urgent repair.,2025-05-26,IN_PROGRESS
+33,39,56,Lift not working in apartment block for 3 days.,2024-12-05,CLOSED
+34,41,57,Kitchen sink drainage blocked completely.,2025-05-23,IN_PROGRESS
+35,41,57,Electrical short circuit in main hall switchboard needs urgent repair.,2024-07-29,CLOSED
+36,41,57,Geyser not heating water; pilot light keeps going off.,2024-06-15,CLOSED
+37,42,27,Ceiling fan wobbling dangerously and making noise.,2025-03-04,CLOSED
+38,42,27,Broken door lock on main entrance – security concern.,2025-01-17,CLOSED
+39,42,27,Geyser not heating water; pilot light keeps going off.,2025-03-11,CLOSED
+40,43,98,Intercom system not working – cannot communicate with security.,2025-01-18,IN_PROGRESS
+41,44,30,Motor pump for overhead tank making loud noise.,2025-04-28,CLOSED
+42,44,30,Geyser not heating water; pilot light keeps going off.,2025-05-16,CLOSED
+43,44,30,Electrical short circuit in main hall switchboard needs urgent repair.,2024-12-09,OPEN
+44,45,89,Main gate remote not working – manually opening every time.,2024-07-12,IN_PROGRESS
+45,45,89,Intercom system not working – cannot communicate with security.,2025-01-22,CLOSED
+46,46,64,Gas pipeline connection leaking – safety emergency.,2025-04-04,IN_PROGRESS
+47,46,64,AC unit not cooling properly despite being serviced recently.,2025-04-05,OPEN
+48,50,47,Broken tiles in bathroom causing water pooling.,2024-11-07,OPEN
+49,50,47,Seepage in bedroom wall during rains.,2024-10-14,OPEN
+50,50,47,Balcony grill rusted and unstable – safety hazard.,2025-02-01,IN_PROGRESS
+51,50,47,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2024-12-23,CLOSED
+52,53,45,Ceiling fan wobbling dangerously and making noise.,2025-07-12,IN_PROGRESS
+53,53,45,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2024-12-07,IN_PROGRESS
+54,53,45,Paint peeling off walls due to moisture.,2025-06-23,IN_PROGRESS
+55,56,53,Ceiling fan wobbling dangerously and making noise.,2025-09-23,CLOSED
+56,56,53,Geyser not heating water; pilot light keeps going off.,2025-01-08,OPEN
+57,58,54,Broken door lock on main entrance – security concern.,2025-06-15,CLOSED
+58,58,54,Power backup inverter battery dead – no power during outages.,2025-06-13,IN_PROGRESS
+59,58,54,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2025-02-24,OPEN
+60,58,54,Paint peeling off walls due to moisture.,2025-07-13,CLOSED
+61,59,77,Main gate remote not working – manually opening every time.,2024-08-22,IN_PROGRESS
+62,59,77,Motor pump for overhead tank making loud noise.,2025-02-27,OPEN
+63,62,79,Motor pump for overhead tank making loud noise.,2024-12-29,OPEN
+64,62,79,Paint peeling off walls due to moisture.,2025-06-20,OPEN
+65,62,79,Mosquito menace due to stagnant water in compound.,2025-02-17,OPEN
+66,62,79,Ceiling fan wobbling dangerously and making noise.,2024-07-21,CLOSED
+67,65,71,Intercom system not working – cannot communicate with security.,2025-03-12,CLOSED
+68,65,71,Electrical short circuit in main hall switchboard needs urgent repair.,2024-12-16,IN_PROGRESS
+69,65,71,Power backup inverter battery dead – no power during outages.,2024-10-17,CLOSED
+70,68,49,Intercom system not working – cannot communicate with security.,2025-02-14,IN_PROGRESS
+71,68,49,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2024-05-12,OPEN
+72,68,49,Lift not working in apartment block for 3 days.,2024-03-16,IN_PROGRESS
+73,68,49,Kitchen sink drainage blocked completely.,2024-12-20,IN_PROGRESS
+74,75,28,Broken tiles in bathroom causing water pooling.,2024-08-20,IN_PROGRESS
+75,79,44,Window pane cracked due to storm – needs replacement.,2024-05-31,CLOSED
+76,82,51,Window pane cracked due to storm – needs replacement.,2024-12-14,OPEN
+77,83,26,Electrical short circuit in main hall switchboard needs urgent repair.,2025-02-24,CLOSED
+78,83,26,Main gate remote not working – manually opening every time.,2025-11-20,CLOSED
+79,83,26,Intercom system not working – cannot communicate with security.,2025-03-04,CLOSED
+80,86,35,Balcony grill rusted and unstable – safety hazard.,2025-01-12,CLOSED
+81,86,35,Water leakage from bathroom ceiling causing damage to walls.,2024-04-18,CLOSED
+82,86,35,Mosquito menace due to stagnant water in compound.,2024-11-07,CLOSED
+83,86,35,Motor pump for overhead tank making loud noise.,2024-09-18,CLOSED
+84,87,70,AC unit not cooling properly despite being serviced recently.,2025-06-15,CLOSED
+85,87,70,Ceiling fan wobbling dangerously and making noise.,2024-08-18,IN_PROGRESS
+86,89,50,Broken tiles in bathroom causing water pooling.,2025-04-29,CLOSED
+87,89,50,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2025-06-21,CLOSED
+88,89,50,Power backup inverter battery dead – no power during outages.,2025-01-01,IN_PROGRESS
+89,40,74,AC unit not cooling properly despite being serviced recently.,2023-11-23,CLOSED
+90,40,74,Balcony grill rusted and unstable – safety hazard.,2023-11-03,CLOSED
+91,40,74,Mosquito menace due to stagnant water in compound.,2023-09-06,CLOSED
+92,5,34,Mosquito menace due to stagnant water in compound.,2024-05-27,CLOSED
+93,5,34,Window pane cracked due to storm – needs replacement.,2024-04-16,OPEN
+94,5,34,Gas pipeline connection leaking – safety emergency.,2024-04-12,CLOSED
+95,37,90,Geyser not heating water; pilot light keeps going off.,2024-01-18,CLOSED
+96,37,90,Power backup inverter battery dead – no power during outages.,2023-10-04,IN_PROGRESS
+97,10,91,Main gate remote not working – manually opening every time.,2023-07-04,CLOSED
+98,27,37,Mosquito menace due to stagnant water in compound.,2024-05-12,CLOSED
+99,27,37,Broken tiles in bathroom causing water pooling.,2023-10-26,CLOSED
+100,27,37,Water leakage from bathroom ceiling causing damage to walls.,2023-06-08,IN_PROGRESS
+101,27,37,Electrical short circuit in main hall switchboard needs urgent repair.,2023-12-14,OPEN
+102,17,31,Geyser not heating water; pilot light keeps going off.,2024-03-02,CLOSED
+103,17,31,AC unit not cooling properly despite being serviced recently.,2024-03-12,CLOSED
+104,33,46,Window pane cracked due to storm – needs replacement.,2024-10-23,CLOSED
+105,61,61,Kitchen sink drainage blocked completely.,2023-08-26,CLOSED
+106,71,55,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2024-05-17,CLOSED
+107,71,55,Lift not working in apartment block for 3 days.,2024-03-08,CLOSED
+108,49,32,Power backup inverter battery dead – no power during outages.,2023-12-07,IN_PROGRESS
+109,85,78,Window pane cracked due to storm – needs replacement.,2023-08-27,CLOSED
+110,35,85,Gas pipeline connection leaking – safety emergency.,2024-03-19,CLOSED
+111,35,85,Ceiling fan wobbling dangerously and making noise.,2024-09-21,IN_PROGRESS
+112,35,85,Window pane cracked due to storm – needs replacement.,2024-03-04,CLOSED
+113,35,85,Broken door lock on main entrance – security concern.,2024-04-23,IN_PROGRESS
+114,32,25,Kitchen sink drainage blocked completely.,2024-01-02,CLOSED
+115,32,25,Seepage in bedroom wall during rains.,2024-04-16,OPEN
+116,78,36,Seepage in bedroom wall during rains.,2023-12-01,OPEN
+117,78,36,AC unit not cooling properly despite being serviced recently.,2023-09-28,IN_PROGRESS
+118,78,36,Power backup inverter battery dead – no power during outages.,2023-10-16,OPEN
+119,57,58,Lift not working in apartment block for 3 days.,2024-07-26,CLOSED
+120,4,80,Broken door lock on main entrance – security concern.,2023-12-28,CLOSED
+121,4,80,Pest infestation (cockroaches/ants) in kitchen and bathroom.,2024-03-06,IN_PROGRESS
+122,4,80,Balcony grill rusted and unstable – safety hazard.,2023-06-12,IN_PROGRESS
+123,4,80,Mosquito menace due to stagnant water in compound.,2023-05-30,IN_PROGRESS
+124,25,97,Window pane cracked due to storm – needs replacement.,2023-11-02,IN_PROGRESS
+125,25,97,Gas pipeline connection leaking – safety emergency.,2024-08-20,IN_PROGRESS
+126,25,97,Ceiling fan wobbling dangerously and making noise.,2024-02-13,OPEN
+127,25,97,Mosquito menace due to stagnant water in compound.,2024-06-13,IN_PROGRESS
+128,16,38,Intercom system not working – cannot communicate with security.,2023-10-25,CLOSED
+129,15,52,Ceiling fan wobbling dangerously and making noise.,2024-04-12,CLOSED
+130,15,52,Power backup inverter battery dead – no power during outages.,2023-09-21,CLOSED
+131,77,88,Mosquito menace due to stagnant water in compound.,2023-06-06,IN_PROGRESS
+132,77,88,Balcony grill rusted and unstable – safety hazard.,2023-08-31,OPEN
+133,77,88,Balcony grill rusted and unstable – safety hazard.,2023-10-17,IN_PROGRESS
+134,77,88,Lift not working in apartment block for 3 days.,2023-11-23,IN_PROGRESS
+135,47,23,Kitchen sink drainage blocked completely.,2023-08-10,IN_PROGRESS
+136,47,23,Mosquito menace due to stagnant water in compound.,2023-05-23,CLOSED
+137,64,96,Window pane cracked due to storm – needs replacement.,2024-05-04,OPEN
+138,28,66,Broken tiles in bathroom causing water pooling.,2023-05-17,OPEN
+139,28,66,Broken door lock on main entrance – security concern.,2024-02-19,CLOSED
+140,28,66,Intercom system not working – cannot communicate with security.,2024-03-10,OPEN
+141,28,66,Broken door lock on main entrance – security concern.,2023-09-10,OPEN
+142,80,68,Mosquito menace due to stagnant water in compound.,2023-11-22,CLOSED
+143,8,94,Seepage in bedroom wall during rains.,2024-09-17,CLOSED
+144,40,74,Paint peeling off walls due to moisture.,2024-08-18,CLOSED
+145,5,77,Power backup inverter battery dead – no power during outages.,2024-01-09,IN_PROGRESS
+146,37,37,Mosquito menace due to stagnant water in compound.,2024-01-04,CLOSED
+147,10,30,Main gate remote not working – manually opening every time.,2024-01-24,CLOSED
+148,27,31,Gas pipeline connection leaking – safety emergency.,2024-09-14,OPEN
+149,17,60,Ceiling fan wobbling dangerously and making noise.,2024-02-14,IN_PROGRESS
+150,33,78,Paint peeling off walls due to moisture.,2024-07-21,CLOSED
+151,61,25,Motor pump for overhead tank making loud noise.,2024-03-21,IN_PROGRESS
+152,71,39,Paint peeling off walls due to moisture.,2025-02-11,CLOSED
+153,49,91,Lift not working in apartment block for 3 days.,2024-11-20,OPEN

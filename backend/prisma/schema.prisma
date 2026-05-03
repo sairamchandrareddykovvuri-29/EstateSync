@@ -1,0 +1,112 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  user_id    Int      @id @default(autoincrement())
+  name       String
+  email      String   @unique
+  phone      String?
+  role       Role     @default(TENANT)
+  password   String
+  created_at DateTime @default(now())
+  properties Property[]
+  leases     LeaseAgreement[]
+  payments   Payment[]
+  requests   MaintenanceRequest[]
+}
+
+enum Role {
+  ADMIN
+  OWNER
+  TENANT
+}
+
+model Property {
+  property_id   Int      @id @default(autoincrement())
+  owner_id      Int
+  owner         User     @relation(fields: [owner_id], references: [user_id])
+  title         String
+  address       String
+  city          String
+  rent_amount   Decimal
+  status        PropertyStatus @default(AVAILABLE)
+  property_type String         @default("HOUSE")
+  listings      PropertyListing[]
+  leases        LeaseAgreement[]
+  requests      MaintenanceRequest[]
+}
+
+enum PropertyStatus {
+  AVAILABLE
+  LEASED
+}
+
+model PropertyListing {
+  listing_id   Int      @id @default(autoincrement())
+  property_id  Int
+  property     Property @relation(fields: [property_id], references: [property_id])
+  listing_date DateTime @default(now())
+  description  String?
+  is_active    Boolean  @default(true)
+}
+
+model LeaseAgreement {
+  lease_id     Int      @id @default(autoincrement())
+  property_id  Int
+  property     Property @relation(fields: [property_id], references: [property_id])
+  tenant_id    Int
+  tenant       User     @relation(fields: [tenant_id], references: [user_id])
+  start_date   DateTime
+  end_date     DateTime
+  monthly_rent Decimal
+  lease_status LeaseStatus @default(ACTIVE)
+  payments     Payment[]
+
+  @@unique([property_id, tenant_id])
+}
+
+enum LeaseStatus {
+  ACTIVE
+  ENDED
+}
+
+model Payment {
+  payment_id   Int      @id @default(autoincrement())
+  lease_id     Int
+  lease        LeaseAgreement @relation(fields: [lease_id], references: [lease_id])
+  tenant_id    Int            @default(1)
+  tenant       User           @relation(fields: [tenant_id], references: [user_id])
+  amount       Decimal
+  payment_date DateTime @default(now())
+  payment_mode String
+  status       PaymentStatus @default(PENDING)
+}
+
+enum PaymentStatus {
+  PAID
+  COMPLETED
+  PENDING
+}
+
+model MaintenanceRequest {
+  request_id        Int      @id @default(autoincrement())
+  property_id       Int
+  property          Property @relation(fields: [property_id], references: [property_id])
+  tenant_id         Int
+  tenant            User     @relation(fields: [tenant_id], references: [user_id])
+  issue_description String
+  request_date      DateTime @default(now())
+  request_status    RequestStatus @default(OPEN)
+}
+
+enum RequestStatus {
+  OPEN
+  IN_PROGRESS
+  CLOSED
+}
