@@ -67,3 +67,7 @@ A full-stack Property Management System built with Node.js, Express, React, and 
 
 ## Default Roles
 When registering a new user, you can specify the role in the API payload or simply use the interface (currently hardcoded paths in the UI for demonstration purposes, but fully supported by the backend).
+
+## Contributors
+
+- Sairam Chandra Reddy
